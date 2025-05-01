@@ -38,7 +38,7 @@
 ---
 
 ### 📫 Onde me encontrar
-- Meu site: [DavidRabelo.github.io/portifolio-autualizado](https://davidrabelo.github.io/portifolio-autualizado/)
+- Meu site: [DavidRabelo.github.io/Portifolio-Atualizado](https://davidrabelo.github.io/Portifolio-Atualizado/)
 - Instagram: [@daviapns](https://instagram.com/daviapns)
 
 ---
